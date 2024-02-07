@@ -6,3 +6,17 @@
 .projects{
     color: blue;
 }
+
+li{
+    margin-bottom: 10px;
+}
+
+.height-project{
+    height: 420px;
+}
+
+.view-resume a{
+    font-size: 20px;
+    background-color: blueviolet;
+    border: none;
+}
