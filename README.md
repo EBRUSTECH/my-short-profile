@@ -1,2 +1,2 @@
 victory.omoyibo-profile
-my-short-profile for internship and projects
+my-short-profile for projects
